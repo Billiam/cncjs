@@ -539,6 +539,7 @@ class GrblController {
                 // Grbl v0.9
                 this.emit('serialport:read', res.raw);
             }
+            this.event.trigger('alarm');
         });
 
         this.runner.on('parserstate', (res) => {

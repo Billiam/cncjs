@@ -20,6 +20,7 @@
     "Sleep": "Suspender",
     "Unlock": "Desbloquear",
     "Reset": "Reiniciar",
+    "Alarm": "alarme",
     "Authentication failed.": "Autenticação falhou",
     "Error": "Erro",
     "Sign in to {{name}}": "Entrar como {{name}}",

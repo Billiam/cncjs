@@ -20,6 +20,7 @@
     "Sleep": "Alvás",
     "Unlock": "Feloldás",
     "Reset": "Reset",
+    "Alarm": "Riasztás",
     "Authentication failed.": "A hitelesítés sikertelen.",
     "Error": "",
     "Sign in to {{name}}": "Bejelentkezés a {{name}}-be",

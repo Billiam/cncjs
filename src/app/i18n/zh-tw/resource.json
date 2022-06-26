@@ -20,6 +20,7 @@
     "Sleep": "睡眠",
     "Unlock": "解除鎖定",
     "Reset": "重置",
+    "Alarm": "",
     "Authentication failed.": "認證失敗",
     "Error": "",
     "Sign in to {{name}}": "登入 {{name}}",

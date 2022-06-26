@@ -20,6 +20,7 @@
     "Sleep": "Uyku",
     "Unlock": "Kilidi Aç",
     "Reset": "Sıfırla",
+    "Alarm": "Alarm",
     "Authentication failed.": "Kimlik Doğrulama Başarısız",
     "Error": "Hata",
     "Sign in to {{name}}": "Giriş yap {{name}}",

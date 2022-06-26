@@ -137,6 +137,7 @@ class CreateRecord extends PureComponent {
                                     <option value="gcode:stop">{i18n._('G-code: Stop')}</option>
                                     <option value="gcode:pause">{i18n._('G-code: Pause')}</option>
                                     <option value="gcode:resume">{i18n._('G-code: Resume')}</option>
+                                    <option value="alarm">{i18n._('Alarm')}</option>
                                     <option value="feedhold">{i18n._('Feed Hold')}</option>
                                     <option value="cyclestart">{i18n._('Cycle Start')}</option>
                                     <option value="homing">{i18n._('Homing')}</option>

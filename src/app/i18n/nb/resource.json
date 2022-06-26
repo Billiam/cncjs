@@ -20,6 +20,7 @@
     "Sleep": "Sov",
     "Unlock": "Lås opp",
     "Reset": "Tilbakestill",
+    "Alarm": "Alarm",
     "Authentication failed.": "Autentisering feilet.",
     "Error": "Feil",
     "Sign in to {{name}}": "Logg inn med {{name}}",

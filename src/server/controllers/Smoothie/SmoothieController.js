@@ -475,6 +475,7 @@ class SmoothieController {
 
         this.runner.on('alarm', (res) => {
             this.emit('serialport:read', res.raw);
+            this.event.trigger('alarm');
         });
 
         // Action commands
